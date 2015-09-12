@@ -28,4 +28,8 @@
 ## Refresh information about Foot Hills Pilot Plant
 ### 2015 Sep 12
 
+## Look at mechanisms to handle pre-orders
+### 2015 Sep 12
+* [Home Free America](http://www.homefreeamerica.us/) leads to [The Transparent Brand](http://www.homefreeamerica.us/transparent-brand-put-trust-back-economics/) which leads to [Everlane](https://www.everlane.com/) which has extreme transparency on the economics of their business.
+* Can something similar be done for the duck meat and egg business?
 
